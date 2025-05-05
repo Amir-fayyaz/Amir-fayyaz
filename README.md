@@ -26,7 +26,5 @@
 ### Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amir-fayyaz&theme=gruvbox-light)](https://git.io/streak-stats)
 
-### 🗓 Contribution Graph
-<img src="https://raw.githubusercontent.com/amir-fayyaz/amir-fayyaz/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Graph" width="100%">
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amir-fayyaz&theme=github-compact&hide_border=true&area=true)
 
